@@ -5,14 +5,14 @@
 
 <p align="left" >Capibarib-E Racing is a brazilian formula student team, which represents the <i>Universidade Federal de Pernambuco</i> (UFPE).</p>
 
-<h3>This team is segmented in three big areas:</h3>
-<h4>
+<h3>Our team is segmented in three big areas:</h3>
+<p>
     🧠 Manegement<br>
     ⚙  Mechanical<br>
     ⚡ Electrical<br>
-</h4>
+</p>
 
-
+#
 <div align="left">
   <a href="https://www.instagram.com/capibariberacing/" target="_blank"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/company/capibaribe-racing/" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
